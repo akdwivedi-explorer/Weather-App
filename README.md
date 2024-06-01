@@ -3,7 +3,7 @@
 
 1. HTML (HyperText Markup Language):
   - The structure and content of the web page.
-  - Elements like <div>, <input>, <button>, etc., are used to build the layout.
+  - Elements like div, input, button, etc., are used to build the layout.
   
 2. CSS (Cascading Style Sheets):
   - External stylesheet style.css is linked to style the HTML elements.
@@ -23,12 +23,12 @@
 
 <h2>Frontend Technologies : </h2>
 
-** HTML: Structuring the web page content.
-** CSS: Styling the web page (although not included in the snippet, it is linked as style.css).
-** JavaScript: Adding interactivity and functionality.
-** DOM Manipulation: Using JavaScript to manipulate HTML elements.
-** Event Handling: Using JavaScript to handle events like button clicks.
-** Fetch API: To make asynchronous HTTP requests to fetch weather data.
+** HTML: Structuring the web page content.<br>
+** CSS: Styling the web page (although not included in the snippet, it is linked as style.css).<br>
+** JavaScript: Adding interactivity and functionality.<br>
+** DOM Manipulation: Using JavaScript to manipulate HTML elements.<br>
+** Event Handling: Using JavaScript to handle events like button clicks.<br>
+** Fetch API: To make asynchronous HTTP requests to fetch weather data.<br>
 
 <h2>External API : </h2>
 
@@ -36,13 +36,13 @@
 
 <h2>Example of External API Integration : </h2>
 
-** API Key: Required for authentication when accessing the OpenWeatherMap API.
-** API URL: https://api.openweathermap.org/data/2.5/weather?units=metric&q=
+** API Key: Required for authentication when accessing the OpenWeatherMap API.<br>
+** API URL: https://api.openweathermap.org/data/2.5/weather?units=metric&q= <br>
 
 <h2>Tools and Services : </h2>
 
-** Text Editor/IDE: To write and edit the HTML, CSS, and JavaScript code <strong>VS Code</strong>
-** Web Browser: To test and debug the web application <strong>Google Chrome</strong>
+** Text Editor/IDE: To write and edit the HTML, CSS, and JavaScript code <strong>VS Code</strong> <br>
+** Web Browser: To test and debug the web application <strong>Google Chrome</strong> <br>
 
 --Here are the Screenshots for reference
 --
